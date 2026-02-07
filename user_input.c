@@ -4,11 +4,11 @@ int main(){
     float fnum;
     char ch;
     printf("Enter an integer: ");
-    scanf("%d", num);
+    scanf("%d", &num);
     printf("Enter a float: ");
-    scanf("%f", fnum);
+    scanf("%f", &fnum);
     printf("Enter a character: ");
-    scanf("%c", ch);
+    scanf("%c", &ch);
     printf("You entered integer: %d\n", num);
     printf("You entered float: %f\n", fnum);
     printf("You entered character: %c\n", ch);
