@@ -1,5 +1,6 @@
 # PF LAB
-**Muhammad Ayaan\25K-6505**
+**Muhammad Ayaan\
+25K-6505**
 ### Lab Objectives
 - **Version Control Mastery:** Learn to set up a public GitHub repository, manage branches, and handle pull requests to merge code into the main branch.
 - **Markdown Documentation:** Practice using Markdown syntax to create structured documentation, including headers, lists, and task tracking within a `README.md` file.
