@@ -10,5 +10,6 @@ int main(){
     printf("Character: %c\n",alpha);
     printf("Float: %f\n",decimal);
     printf("Boolean: %d\n",decision);
-    printf("Double: %lf\n",bigDecimal);    
+    printf("Double: %lf\n",bigDecimal);  
+    return 0;  
 }
