@@ -8,3 +8,7 @@
 - **Output and Formatting:** Master the use of escape sequences like \n (newline) and \t (tab) to format console output.
 - **Data Types and Variables:** Learn to declare and initialize various data types, including `int`, `float`, `double`, and `char`.
 - **I/O Operations and Precision:** Practice taking user input via `scanf` and controlling the precision of floating-point numbers during output.
+### Tasks
+- [] GitHub Repository Management
+- [] Documentation and C Formatting
+- [] Data Handling and Precision
