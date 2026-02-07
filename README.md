@@ -1,4 +1,4 @@
-# PF LAB
+# PROGRAMMING FUNDAMENTALS LAB
 **Muhammad Ayaan\
 25K-6505**
 ### Lab Objectives
